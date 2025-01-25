@@ -6,8 +6,8 @@ game has many features and made by c and raylib, you can select tiles by mouse o
 than move them by (w,a,s,d) or arrows.<br/>
 you can reset the game by pressing (r) and quit by pressing esc or (q).<br/>
 have fun!<br/>
-![pic1](https://github.com/poor3a/3x3puzzleGame/blob/main/src/Picture1.png)
+![pic1](https://github.com/poor3a/3x3puzzleGame/blob/main/src/Picture1.png)<br/>
 reset<br/>
-![pic1](https://github.com/poor3a/3x3puzzleGame/blob/main/src/Picture2.png)
+![pic1](https://github.com/poor3a/3x3puzzleGame/blob/main/src/Picture2.png)<br/>
 win<br/>
 ![winreset](https://github.com/poor3a/3x3puzzleGame/blob/main/src/Picture3.png)
